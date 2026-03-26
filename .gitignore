@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+converted/
+torch_out/
+gfs_to_hrrr_weights.nc
+src/gfs_to_hrrr_weights.nc
+src/__pycache__/
+
+*.idx
