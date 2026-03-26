@@ -10,8 +10,8 @@ PyTorch port of the NOAA GSL HRRRCast V3 diffusion model, including:
 
 ## Repositories
 
-- GitHub: code and runtime
-- Hugging Face: converted `.pt` checkpoints
+- GitHub: `https://github.com/FahrenheitResearch/hrrrcastv3-torch`
+- Hugging Face: `https://huggingface.co/deepguess/hrrrcastv3-diffusion-torch`
 
 The Torch checkpoints rebuild the network from:
 
